@@ -41,8 +41,7 @@ I also enjoy contributing to open-source and collaborating with like-minded deve
 ---
 
 ### 📫 How to Reach Me  
-📧 Email: sushantdangol@example.com  
-💻 Portfolio: [My Website](https://your-website.com)  
+💻 Portfolio: [My Website](https://sushantdangol.com.np)  
 
 ---
 
